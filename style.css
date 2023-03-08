@@ -1,0 +1,15 @@
+.button{
+    width: auto;
+    height: auto;
+    font-size: large;
+    
+}
+.square{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 384px;
+height: 480px;
+background-image: url("images/faltabem.gif");
+background-image: linear-gradient();
+}
