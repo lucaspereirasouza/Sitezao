@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(green,rgba(0, 255, 0, 0.733));
+    background-size: contain;
+
+}
+.title{
+/* Rectangle 1 */
+
+position: absolute;
+align-self: center;
+text-align: center;
+font-size:60px;
+background:yellow;
+width: auto;
+height: auto;
+}
+
+.square{
+/* Rectangle 1 */
+align-self: center;
+position: absolute;
+width:fit-content;
+height: fit-content;
+background-image: url("images/faltabem.gif");
+
+}
+
+.faltabem{
+
+    width: 2000px;
+    height: 2000px;
+}
