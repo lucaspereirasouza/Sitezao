@@ -1,13 +1,15 @@
 body{
     flex: 100%;
     background: linear-gradient(green,rgba(0, 255, 0, 0.733));
-    background-size: 750% 750%;
+    width: 100%;
+    height: 100%;
 
 }
 
 .box{
     display: flex;
-    
+    width: 100%;
+    height: 100%;
 }
 
 
