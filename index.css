@@ -48,22 +48,21 @@
   position: absolute;
   border-color: transparent;
 }
-.bttnwin{
-  color: rgba(255, 255, 255, 1);
-  width: 191px;
-  height: auto;
+.winbox{
+
+position: absolute;
+width: 150px;
+height: 100px;
+left: 230px;
+top: 15px;
+background: #E1E1E1;
+text-align: center;
+vertical-align:middle;
+font-size: 25px;
+
+}
+.textwin{
   position: absolute;
-  font-size: 20px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: center;
-  font-family: Coda;
-  font-weight: 400;
-  line-height: 21.5px;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
 }
 
 .index-rectangle7 {
@@ -104,7 +103,7 @@
   top: 32px;
   left: 33px;
   color: rgb(255, 255, 255);
-  width: 295px;
+  width: 190px;
   height: auto;
   position: absolute;
   font-size: 64px;
