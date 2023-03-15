@@ -38,7 +38,8 @@ border-radius: 28px;
         transform:translate(50,50);
     }
 }
-
-.faltabem:hover{
+/*
+.faltabem:{
  animation: bigger 5s infinite;
 }
+*/
